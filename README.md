@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamonGuti
-- 👀 I’m interested in data science, Houston sports, strength/hypertrophy training, skateboarding, videogames, music, and vintage clothing
+- 👀 I'm a data enthusiast 
 - 🌱 I’m currently learning data analysis/science
 - 💞️ I’m looking to collaborate on data analysis/science projects.
 - 📫 How to reach me, here is my linkedin profile https://www.linkedin.com/in/ramongutierrez1011/
